@@ -1,0 +1,14 @@
+.box-container {
+    border: 1px solid black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.left-message {
+    align-content: flex-start;
+}
+
+.right-message {
+    right: 0;
+}
